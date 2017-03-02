@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="E:\AndroidStudioDemo\TestGit\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2a53c4f3518116b8c6aee0e477233f0f7da8616f">
+        <dex dex="E:\AndroidStudioDemo\TestGit\app\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-25.1.0_8b4e8177e6aa79ee84cbf1340008a6c2019be2f7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\zhangp01\.gradle\caches\modules-2\files-2.1\com.github.bumptech.glide\glide\3.7.0\9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4\glide-3.7.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4">
+        <dex dex="E:\AndroidStudioDemo\TestGit\app\build\intermediates\pre-dexed\debug\glide-3.7.0_d36cee168978df7e1c07fe37d7bbfec239ac11aa.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\AndroidStudioDemo\TestGit\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="E:\AndroidStudioDemo\TestGit\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-25.1.0_39addf13e3b8070383d8ef9441a18fb3b0fdfe13.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\AndroidStudioDemo\TestGit\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ca3c7aa31e2726a400a6e552b93cb9f63c9a1e6d">
+        <dex dex="E:\AndroidStudioDemo\TestGit\app\build\intermediates\pre-dexed\debug\com.android.support-support-compat-25.1.0_39a21e30a6af07891ac2838229ba7ef1d170d8a5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\AndroidStudioDemo\TestGit\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f02263e35e52668dd17b73bf961437e3d562b35f">
+        <dex dex="E:\AndroidStudioDemo\TestGit\app\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-25.1.0_10b094e41f205c4854928f079f1ab8263b246162.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\AndroidStudioDemo\TestGit\app\libs\afinal_0.5.1_bin.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ae398c74701392473b9cb488c76a92576d6f548c">
+        <dex dex="E:\AndroidStudioDemo\TestGit\app\build\intermediates\pre-dexed\debug\afinal_0.5.1_bin_b74f54aeb5d0e2664140c2063178d3d2f111a180.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\AndroidStudioDemo\TestGit\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1630658fbc2d222b988603c27b4a4249586fbfe7">
+        <dex dex="E:\AndroidStudioDemo\TestGit\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-25.1.0_ffc023a39d7f4e4bed38930674a1d535bbaf3c7e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\AndroidStudioDemo\TestGit\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0a0ef86b7fa568a52bf6214a0326ca1f1d618da7">
+        <dex dex="E:\AndroidStudioDemo\TestGit\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-25.1.0_165cb1e5c7b36365265b43f68811ab864f290b25.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\AndroidStudioDemo\TestGit\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="aee64634871d88a419d59eb743c1258a60f19700">
+        <dex dex="E:\AndroidStudioDemo\TestGit\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-25.1.0_6622d0c6a2dd52c5401e727883bdae0caee6cd6e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\AndroidStudioDemo\TestGit\app\libs\pullview.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="94a53cff965e6c05e30c2bd219092d7a0281834b">
+        <dex dex="E:\AndroidStudioDemo\TestGit\app\build\intermediates\pre-dexed\debug\pullview_bea587e9e521aaba343789d09b3319401a3a11b6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\AndroidStudioDemo\TestGit\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6fb6ac3e8d3b9013819920d9ea11f3803c4c0033">
+        <dex dex="E:\AndroidStudioDemo\TestGit\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-25.1.0_972c18c4c5121c392c7c49dad5fcde7daa484849.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\AndroidStudioDemo\TestGit\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e79aa3d9a16f8c9f16377c0608de70a8f31e5d80">
+        <dex dex="E:\AndroidStudioDemo\TestGit\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-25.1.0_38d8849a8e5174cbb031850f1da206e2aa12bcd1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\AndroidStudioDemo\TestGit\app\libs\andbase.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2c52fab11a1df15b8ac25253662a0c7a3d141058">
+        <dex dex="E:\AndroidStudioDemo\TestGit\app\build\intermediates\pre-dexed\debug\andbase_1d51e7471cfc4769945dbe2c952eee7151801654.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.1.0\support-annotations-25.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="64cb6b229a8bdfd907bc8dd46839a0053e4c018d">
+        <dex dex="E:\AndroidStudioDemo\TestGit\app\build\intermediates\pre-dexed\debug\support-annotations-25.1.0_117b567846efde2edf6224e8c72234a1eb0a4b32.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\AndroidStudioDemo\TestGit\app\build\intermediates\exploded-aar\com.orhanobut\logger\1.15\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2a156b99fc7cc034308f942906b09d32754a4470">
+        <dex dex="E:\AndroidStudioDemo\TestGit\app\build\intermediates\pre-dexed\debug\com.orhanobut-logger-1.15_f675223ded0fe05e838197d747c98ff0f034aa70.jar" />
+    </item>
+
+</items>

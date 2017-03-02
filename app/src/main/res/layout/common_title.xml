@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/Rel_Layout"
+    android:layout_width="match_parent"
+    android:layout_height="48dp"
+    android:layout_alignParentTop="true"
+    android:background="#5F7BEC"
+    android:gravity="center_vertical">
+
+    <LinearLayout
+        android:id="@+id/search_leftLayout"
+        android:layout_width="wrap_content"
+        android:layout_height="80dp"
+        android:gravity="center_vertical"
+        android:orientation="horizontal"
+        android:padding="5dp" >
+
+        <ImageView
+            android:id="@+id/search_leftImg"
+            android:layout_width="50dp"
+            android:layout_height="15dp"
+            android:layout_marginLeft="5dp"
+            android:clickable="false"
+            android:src="@mipmap/public_back"
+            android:scaleType="fitStart"/>
+        <com.bm.test.view.CircleImageView
+            android:id="@+id/search_leftCircleImg"
+            android:layout_width="25dp"
+            android:layout_height="25dp"
+            android:layout_marginLeft="5dp"
+            android:background="@null"
+            android:src="@mipmap/t"
+            android:clickable="false"
+            app:border_color="#ffffffff"
+            android:visibility="gone"/>
+
+        <TextView
+            android:id="@+id/search_left_text"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textColor="@color/white"
+            android:textSize="@dimen/txt16sp"
+            android:visibility="gone" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/search_rightLayout"
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+        android:layout_alignParentRight="true"
+        android:gravity="center"
+        android:orientation="horizontal"
+        android:padding="5dp"
+        android:visibility="visible" >
+
+        <ImageView
+            android:id="@+id/search_right_img"
+            android:layout_width="20dp"
+            android:layout_height="20dp"
+            android:layout_marginRight="10dp"
+            android:background="@null"
+            android:clickable="false"
+            android:scaleType="fitXY"
+            android:visibility="gone" />
+
+        <TextView
+            android:id="@+id/search_right_txtView"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:clickable="false"
+            android:gravity="center_vertical"
+            android:paddingRight="5dp"
+            android:text="发布"
+            android:textColor="@color/white"
+            android:textSize="@dimen/txt14sp"
+            android:visibility="gone" />
+    </LinearLayout>
+
+    <TextView
+        android:id="@+id/search_titleText"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_centerVertical="true"
+        android:gravity="center"
+        android:layout_marginBottom="5dp"
+        android:textColor="@android:color/white"
+        android:textSize="@dimen/txt20sp" />
+
+    <ImageView
+        android:id="@+id/search_titleImage"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_centerVertical="true"
+        android:visibility="gone" />
+
+</RelativeLayout>
