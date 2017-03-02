@@ -35,6 +35,7 @@ public class MainFragment extends BaseFragment{
     @Override
     public void init(View view) {
         tv_fg_main = (TextView) view.findViewById(R.id.tv_fg_main);
+        String  abc = "123";
     }
 
     @Override
