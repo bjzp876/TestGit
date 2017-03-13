@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="pullview">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/app/libs/pullview.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
